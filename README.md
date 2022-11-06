@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link to the App
+[Deployed App](https://dashing-scaler.netlify.app/)
+
 ## Note
 
 1) It'll throw an error when the only interviewer or interviewee is selected.
