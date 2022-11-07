@@ -1,17 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Link to the App
 [Deployed App](https://dashing-scaler.netlify.app/)
 
-## Note
+## Features
 
 1) It'll throw an error when the only interviewer or interviewee is selected.
 2) It'll also throw error when the time (time of interview to be scheduled) clashes with any of the interviewer or interviewee.
 3) It can have more than one interviewer and interviewees at the same time.
-4) I'm currently working on "editing an interview", will soon commit it.
+4) It helps speed up your recruitment process by allowing candidates and hiring managers to schedule interviews when it's best time for them.
 
+(PS: I'm currently working on "editing an interview", will very soon commit it.)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
